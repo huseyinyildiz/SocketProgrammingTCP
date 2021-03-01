@@ -1,10 +1,10 @@
-C:\Users\husey\source\repos\SocketTCP\LogList\bin\Debug\LogList.exe.config
 C:\Users\husey\source\repos\SocketTCP\LogList\bin\Debug\LogList.exe
-C:\Users\husey\source\repos\SocketTCP\LogList\bin\Debug\LogList.pdb
-C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.csprojAssemblyReference.cache
+C:\Users\husey\source\repos\SocketTCP\LogList\bin\Debug\LogList.exe.config
 C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.Form1.resources
 C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.Properties.Resources.resources
 C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.csproj.GenerateResource.cache
 C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.csproj.CoreCompileInputs.cache
 C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.exe
 C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.pdb
+C:\Users\husey\source\repos\SocketTCP\LogList\bin\Debug\LogList.pdb
+C:\Users\husey\source\repos\SocketTCP\LogList\obj\Debug\LogList.csprojAssemblyReference.cache

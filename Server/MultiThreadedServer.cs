@@ -6,7 +6,7 @@ using System.Threading;
 
 namespace Server
 {
-    public class MultiThreadedEchoServer
+    public class MultiThreadedServer
     {
 		private static void ProcessClientRequests(object argument)
 		{
@@ -71,11 +71,11 @@ namespace Server
 				reader.Close();
 				writer.Close();
 				client.Close();
-				Console.WriteLine("Closing client connection!");
+				Console.WriteLine("Closing client connection.");
 			}
 			catch (IOException)
 			{
-				Console.WriteLine("Problem with client communication. Exiting thread.");
+				Console.WriteLine("Existing thread.");
 			}
 			finally
 			{

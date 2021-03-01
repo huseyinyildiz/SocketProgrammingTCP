@@ -5,7 +5,7 @@ using System.Net.Sockets;
 using System.Collections;
 namespace Client
 {
-    public class EchoClient
+    public class MultiClient
     {
         static void Main(string[] args)
         {

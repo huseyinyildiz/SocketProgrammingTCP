@@ -30,6 +30,7 @@ namespace LogList
 
         private void GetList_Click(object sender, EventArgs e)
         {
+            
             StreamReader streamReader = File.OpenText(@"C:\log\log.txt");
             string logs;
             while((logs=streamReader.ReadLine())!=null)
@@ -37,6 +38,8 @@ namespace LogList
                 ListLog.Items.Add(logs);
             }
             streamReader.Close();
+
+
         }
     }
 }
